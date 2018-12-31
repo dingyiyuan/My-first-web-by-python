@@ -13,7 +13,8 @@ def to_timestamp(dt_str, tz_str='UTC+0:00'):
     print (t)
     return t
 
-
+#Git is a distributed version control system.
+#Git is free software distributed under the GPL.
 
 # 测试:
 t1 = to_timestamp('2015-6-1 08:10:30', 'UTC+7:00')
